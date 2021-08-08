@@ -10,8 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  guitar player / designer 
 
--🌱 I’m currently working on a project for UTSS (fullstack :React/Springboot/MongoDB)
-- https://github.com/tarek-elakermi/UTSS_Stock_Movement_Repository  😉
+-🌱 I’m currently working on a project for UTSS (fullstack :React/Springboot/MongoDB)  😉
 - 📫 How to reach me: benhssanmohamedamin@gmail.com
 
 
