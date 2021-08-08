@@ -48,8 +48,7 @@
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/medamin20/bhmaInfoReadme/main/angular.png" />
 
-<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/medamin20/bhmaInfoReadme/main/499-4996069_postman-logo-circle-hd-png-download.png
-" />
+<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/medamin20/bhmaInfoReadme/main/499-4996069_postman-logo-circle-hd-png-download.png" />
 
 
 
