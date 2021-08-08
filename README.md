@@ -20,10 +20,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="medaminpf.w" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[![Website](https://img.shields.io/website?label=Linkedinn&style=for-the-badge&url=https%3A%2F%2Fmedaminpf.web.app)](https://www.linkedin.com/in/mohamed-amin-ben-hssan-4484b3172/)
 
-<img align="left" alt="https://www.linkedin.com/in/mohamed-amin-ben-hssan-4484b3172/"| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="bhmedamin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
