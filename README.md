@@ -46,6 +46,10 @@
 
 <img align="left" alt="SpringBoot" width="26px" src="https://blog.oxiane.com/wp-content/uploads/2021/02/spring_boog_400x400.png" />
 
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/medamin20/bhmaInfoReadme/main/angular.png" />
+
+
+
 
 </p>
 
