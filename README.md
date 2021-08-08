@@ -23,7 +23,7 @@
 <img align="left" alt="medaminpf.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
 
-<img align="left" alt="Mohamed Amin Ben Hssan | LinkedIn" width="22px" src="https://www.linkedin.com/in/mohamed-amin-ben-hssan-4484b3172/" />
+<img align="left" alt="Mohamed Amin Ben Hssan | LinkedIn" width="22px" src="https://www.linkedin.com/in/mohamed-amin-ben-hssan-4484b3172" />
 <img align="left" alt="bhmedamin | Instagram" width="22px" src="https://www.instagram.com/bhmedamin/?hl=fr" />
 
 <br />
