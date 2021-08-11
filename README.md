@@ -10,7 +10,7 @@
 - ⚡ Fun fact:  guitar player / designer 
 
 -🌱 I’m currently working on a project for UTSS (fullstack :React/Springboot/MongoDB)  😉
-- 📫 How to reach me: benhssanmohamedamin@gmail.com
+
 
 
 
@@ -20,7 +20,7 @@
 
 [![Website](https://img.shields.io/website?label=Linkedinn&style=for-the-badge&url=https%3A%2F%2Fmedaminpf.web.app)](https://www.linkedin.com/in/mohamed-amin-ben-hssan-4484b3172/)
 
-
+- 📫  benhssanmohamedamin@gmail.com
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
