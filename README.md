@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  guitar player / designer 
 
--🌱 I’m currently working on a project for UTSS (fullstack :React/Springboot/MongoDB)  😉
+-🌱 I’m currently working on a stock management project  (fullstack :React/Springboot/MongoDB)  😉
 
 
 
