@@ -6,10 +6,7 @@
 ## I'm a Developer, software engineering student :
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  guitar player / designer 
 
--🌱 I’m currently working on a stock management project  (fullstack :React/Springboot/MongoDB)  😉
 
 
 
