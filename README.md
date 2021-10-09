@@ -51,6 +51,7 @@
 
 
 </p>
+<br/>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
@@ -62,7 +63,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg" alt="express" width="40" height="40"/> </a>
 </p>
 
 
