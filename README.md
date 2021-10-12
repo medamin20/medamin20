@@ -69,9 +69,10 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medamin20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medamin20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+![](https://github.com/medamin20/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/medamin20/github-stats/blob/master/generated/languages.svg)
 <br />
 
 <br />
