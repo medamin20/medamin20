@@ -70,6 +70,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medamin20&show_icons=true&locale=en" alt="medamin20" /></p>
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br />
 
 <br />
