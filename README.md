@@ -69,7 +69,6 @@
 <br/>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=medamin20)](https://github.com/medamin20/github-readme-stats)
 
 <br />
 
