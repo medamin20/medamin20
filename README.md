@@ -69,8 +69,7 @@
 <br/>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medamin20&langs_count=5&theme=tokyonight)]()
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=medamin20)](https://github.com/medamin20/github-readme-stats)
 
 <br />
 
