@@ -5,7 +5,7 @@
 
 ## I'm a Developer, software engineering student :
 
-- 🌱 I’m currently looking for an intership ( 6 months ,starting from 01/01//2022)
+- 🌱 I’m currently looking for an internship ( 6 months ,starting from 01/01//2022)
 
 
 
