@@ -97,7 +97,6 @@
   </kbd>
  
     
-    
     <kbd>
     <kbd>DevOps</kbd>
     <br>
@@ -107,12 +106,7 @@
     <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     <img width="30px" src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fit/w_256%2Ch_256%2Cal_c/file.png" />
        <img width="30px" src="https://store-images.s-microsoft.com/image/apps.47025.3c23edf5-06df-4012-ac0e-eb23e28266c1.71249308-9e87-41f5-9106-5927d57ad492.5203162d-37c3-4389-8df2-623d76a2160e" />
-
-
-
-      
-      
-  </kbd>
+    </kbd>
     
     
     
