@@ -82,8 +82,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
           <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
       <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+      <img width="30px" src="      https://img.icons8.com/color/48/000000/bootstrap.png" />
 
-      
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -91,6 +91,10 @@
     <br>
     <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
     <img width="30px" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ" />
+          <img width="30px" src="      https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+      
+      
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </kbd>
   <kbd>
@@ -99,6 +103,11 @@
     <br>
     <img width="30px" src="./bash.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+      
+      
+      
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
