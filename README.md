@@ -73,10 +73,20 @@
               <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
     
-    
-
-      
   </kbd>
+  
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" />
+        <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" />
+
+    
+  </kbd>
+  
+  
+  
   <kbd>
     <kbd>Others</kbd>
     <br>
