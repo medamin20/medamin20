@@ -71,6 +71,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
               <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+                    <img width="30px" src="https://p1.hiclipart.com/preview/119/386/528/clay-os-6-a-macos-icon-intellij-idea-ij-logo-png-clipart.jpg" />
+
 
     
   </kbd>
