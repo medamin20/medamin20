@@ -72,6 +72,8 @@
           <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
               <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
                     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
+                            <img width="30px" src="https://alexdunndev.files.wordpress.com/2018/05/swagger-logo-horizontal.png.png" />
+
 
 
     
