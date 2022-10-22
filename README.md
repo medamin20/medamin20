@@ -3,7 +3,7 @@
 [![Website]()]()
 
 
-## I'm a Developer, software engineering student :
+## I'm a Software engineer :
 
 
 
