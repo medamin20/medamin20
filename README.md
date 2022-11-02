@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Mohamed Amin - aka [MedAmin] 👋
 
-[![Website]()]()
 
 
 ## I'm a Software engineer :
@@ -44,6 +43,15 @@
      <img width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
     </kbd>
   
+   <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" />
+        <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" />
+
+    
+  </kbd>
   
   <kbd>
     <kbd>Dev-Ops</kbd>
@@ -76,15 +84,7 @@
     
   </kbd>
   
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" />
-        <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" />
-
-    
-  </kbd>
+ 
   
   
   
