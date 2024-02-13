@@ -65,7 +65,7 @@
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
     <img width="30px" src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fit/w_256%2Ch_256%2Cal_c/file.png" />
      <img width="30px" src="https://store-images.s-microsoft.com/image/apps.47025.3c23edf5-06df-4012-ac0e-eb23e28266c1.71249308-9e87-41f5-9106-5927d57ad492.5203162d-37c3-4389-8df2-623d76a2160e" />
-         <img width="30px" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.gitlab.com%2Fwebcast%2Fmastering-ci-cd%2F&psig=AOvVaw2jscYu8lePjP98_iQ1FEfa&ust=1707912811292000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiZiYieqYQDFQAAAAAdAAAAABA" />Gitlab CI/CD
+         <img width="30px" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.gitlab.com%2Fwebcast%2Fmastering-ci-cd%2F&psig=AOvVaw2jscYu8lePjP98_iQ1FEfa&ust=1707912811292000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiZiYieqYQDFQAAAAAdAAAAABA" />
 
   </kbd>
   
