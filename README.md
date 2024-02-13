@@ -11,7 +11,8 @@
   <kbd>
 
 <kbd >StackOverFlow</kbd>
-[![AltText]([ImageLink]([https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg](https://upload.wikimedia.org/wikipedia/commons/2/2a/Stack_Overflow.png)))]([redirectlink](https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen))
+    <img width="[30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg)" /> 
+
 
 </kbd>
 </section> 
