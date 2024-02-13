@@ -13,7 +13,7 @@
 <kbd >StackOverFlow</kbd>
 <a href="https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen">
 <br>
-   <img width="50px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" /> 
+   <img width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" /> 
 </a>
 
 
