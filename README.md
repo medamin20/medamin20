@@ -6,8 +6,6 @@
 
 ## I'm a Software engineer :
 
-
-- 📫
 <section>
   <kbd>
 
