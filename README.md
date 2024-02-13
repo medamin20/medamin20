@@ -5,12 +5,14 @@
 
 
 ## I'm a Software engineer :
-[![AltText]([ImageLink](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg))]([redirectlink](https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen))
+
 
 <section>
   <kbd>
 
-<kbd src="https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen">StackOverFlow</kbd>
+<kbd >StackOverFlow</kbd>
+[![AltText]([ImageLink](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg))]([redirectlink](https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen))
+
 </kbd>
 </section> 
 
