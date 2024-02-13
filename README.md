@@ -8,6 +8,7 @@
 
 <section>
   <kbd>
+[![AltText]([ImageLink](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg))]([redirectlink](https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen))
 
 <kbd src="https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen">StackOverFlow</kbd>
 </kbd>
