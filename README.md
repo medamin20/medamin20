@@ -67,7 +67,6 @@
     <img width="30px" src="https://store-images.s-microsoft.com/image/apps.47025.3c23edf5-06df-4012-ac0e-eb23e28266c1.71249308-9e87-41f5-9106-5927d57ad492.5203162d-37c3-4389-8df2-623d76a2160e" />
     <img width="30px" src="https://spin.atomicobject.com/wp-content/uploads/gitlab-ci-cd-logo_2x.png" />
     <img width="30px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
-    <img width="30px" src="https://icons.iconarchive.com/icons/pictogrammers/material/512/apache-kafka-icon.png" />
 
 
 
@@ -105,6 +104,8 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
         <img width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
+        <img width="30px" src="https://icons.iconarchive.com/icons/pictogrammers/material/512/apache-kafka-icon.png" />
+
 
     
   </kbd>
