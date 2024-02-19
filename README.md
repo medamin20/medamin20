@@ -11,6 +11,7 @@
   <kbd>
 
 <kbd >StackOverFlow</kbd>
+[![user:19086479's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19086479?theme=cobalt&website=true&location=false)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 
 
