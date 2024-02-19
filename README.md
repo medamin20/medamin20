@@ -12,10 +12,6 @@
 
 <kbd >StackOverFlow</kbd>
 
-<a href="https://stackoverflow.com/users/19086479/mohamed-amine-ben-hassen" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=19086479" />
-</a>
 
 [![user:19086479's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19086479?theme=cobalt&website=true&location=false)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
