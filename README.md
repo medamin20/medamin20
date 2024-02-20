@@ -7,17 +7,7 @@
 ## I'm a Software engineer :
 
 
-<section>
-  <kbd>
 
-<kbd >StackOverFlow</kbd>
-
-
-
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=19086479)](https://github.com/kurt-liao/so-stats)
-
-</kbd>
-</section> 
 
 ### Languages and Tools:
 
@@ -116,6 +106,18 @@
     
   </kbd>
 </section>
+
+<section>
+  <kbd>
+
+<kbd >StackOverFlow</kbd>
+
+
+
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=19086479)](https://github.com/kurt-liao/so-stats)
+
+</kbd>
+</section> 
 <hr>
 
 <br/>
