@@ -14,10 +14,7 @@
 
 
 
-![user:19086479's SO profile](https://github-stackoverflow-readme.vercel.app/?userId=<19086479>)
-
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=19086479)](https://github.com/kurt-liao/so-stats)
-
 
 </kbd>
 </section> 
