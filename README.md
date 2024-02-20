@@ -16,8 +16,7 @@
 
 ![user:19086479's SO profile](https://github-stackoverflow-readme.vercel.app/?userId=<19086479>)
 
-[![user:19086479's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19086479?theme=cobalt&website=true&location=false)](https://github.com/johannchopin/stackoverflow-readme-profile)
-
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=19086479)](https://github.com/kurt-liao/so-stats)
 
 
 </kbd>
