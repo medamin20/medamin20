@@ -123,7 +123,7 @@
 
 
 <section>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
 
 <section/>
 <br/>
