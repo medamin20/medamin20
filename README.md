@@ -123,8 +123,7 @@
 
 <kbd>
 <section>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
-</section>
+[![GitHub Streak](https://streak-stats.demolab.com?user=medamin20)](https://git.io/streak-stats)</section>
 
 
 
