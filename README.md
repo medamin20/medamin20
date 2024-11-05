@@ -2,7 +2,10 @@
 
 ### Hello, I'm Mohamed Amin - aka [MedAmin] 👋
 
+<section>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
 
+<section/>
 
 ## I'm a Software engineer :
 
@@ -112,10 +115,7 @@
 <br/>
 
 
-<section>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
 
-<section/>
 <br/>
 
 <section>
