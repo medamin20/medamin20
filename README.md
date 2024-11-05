@@ -2,10 +2,7 @@
 
 ### Hello, I'm Mohamed Amin - aka [MedAmin] 👋
 
-<section>
-[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin)](https://github.com/anuraghazra/github-readme-stats)
 
-<section/>
 
 ## I'm a Software engineer :
 
@@ -118,8 +115,12 @@
 
 <br/>
 
-<section>
+[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
   <kbd>
+<br/>
 
 <kbd >StackOverFlow</kbd>
 
