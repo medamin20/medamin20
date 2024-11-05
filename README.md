@@ -3,7 +3,7 @@
 ### Hello, I'm Mohamed Amin - aka [MedAmin] 👋
 
 <section>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
+[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin)](https://github.com/anuraghazra/github-readme-stats)
 
 <section/>
 
