@@ -124,7 +124,9 @@
 
 
 <section>
+ <kbd >
 [![medamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=medamin20)](https://github.com/medamin20/github-readme-activity-graph)
+</kbd>
 </section> 
 
 <br />
