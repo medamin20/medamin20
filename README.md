@@ -121,6 +121,8 @@
 
   <kbd>
 <br/>
+[![Amin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=medamin200&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <kbd >StackOverFlow</kbd>
 
