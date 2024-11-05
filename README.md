@@ -110,7 +110,7 @@
 
 <br/>
 
-[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin)](https://github.com/anuraghazra/github-readme-stats)
+[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -123,6 +123,9 @@
 
   <kbd>
 <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=medamin20&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
