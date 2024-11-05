@@ -106,12 +106,12 @@
     
   </kbd>
 </section>
+<section>
+
 <br/>
 
-<section>
 [![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
 
 
 
@@ -133,6 +133,7 @@
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=19086479)
 
 </kbd>
+</section>
 
 
 
