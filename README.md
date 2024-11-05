@@ -122,7 +122,7 @@
 <br/>
 
 <kbd>
-[![medamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=medamin20)](https://github.com/medamin20/github-readme-activity-graph)
+[![MedAmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=medamin20&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
