@@ -107,6 +107,17 @@
   </kbd>
 </section>
 
+
+
+<br/>
+
+
+<section>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
+
+<section/>
+<br/>
+
 <section>
   <kbd>
 
@@ -118,15 +129,6 @@
 
 </kbd>
 </section> 
-
-<br/>
-
-
-<section>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=medamin20&theme=dark)](https://git.io/streak-stats)
-
-<section/>
-<br/>
 
 
 
